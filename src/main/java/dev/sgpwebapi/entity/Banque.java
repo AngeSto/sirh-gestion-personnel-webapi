@@ -23,7 +23,6 @@ public class Banque {
 	private String iban;
 	
 	public Banque() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public Banque(String nom, String bic, String iban) {
